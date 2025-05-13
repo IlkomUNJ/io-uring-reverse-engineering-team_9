@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eqBYPo8e)
 # Assignment 4, Operating System
 The current OS assignment covers large responsiblity, to fully reverse engineer IO Uring through the scheme explained on class previously. Based on this consideration, the period to complete this assignment is extended into to two weeks (before the next lesson). Moreover it's been decided due to sheer size of reverse engineering activities required, this is a group homework. On this directory, I have put io_uring from kernel source. However since only the sub directory was taken, your own IDE could shown many red error dependency warning. If you prefer, you may put the comment on your own kernel source, then later move the relevant directory to this repo.
 
@@ -7,11 +8,14 @@ As a group assignment, only a member representative may take the assignment. Ple
 Score is mainly calculated from individual contributions made to the commit. There is no team score. For starter this assignment is made team due to the sheer amount of works. Therefore at the minimum, a member must attain one fourth of total completion to gain full score. Only contributions made to the commit are counted.
 
 ## Link to each task
-- [Task 1](/source_information.md)
-- [Task 2](/function_dependency.md)
+- [Task 1](/[source_information.md](https://mconverter.eu/cf_nocache/ajax/download.php?token=D1UusQ5hIAUVdAJ6FeivXKYbfmF5EPEp&file_idx=1&no_idx_in_name=1&orig_names=))
+- [Task 2](/[function_dependency.md](https://www.zamzar.com/files/0196ca05-0ba9-719d-9746-72d29c2e69b4/152465098/?tcs=z98))
 - [Task 3](/data_structure.md)
 - [Task 4](/function_documentation.md)
 
 ## Team Members
-- Member A
-- Member B
+- Syayyidatusyifa
+- Nada kamilia
+- Brilyan Kolimada
+- Jore Kirana
+- 
