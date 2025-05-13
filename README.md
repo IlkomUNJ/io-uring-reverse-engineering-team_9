@@ -8,7 +8,7 @@ As a group assignment, only a member representative may take the assignment. Ple
 Score is mainly calculated from individual contributions made to the commit. There is no team score. For starter this assignment is made team due to the sheer amount of works. Therefore at the minimum, a member must attain one fourth of total completion to gain full score. Only contributions made to the commit are counted.
 
 ## Link to each task
-- [Task 1](/source_information.md)
+- [Task 1](/[source_information.md](https://mconverter.eu/cf_nocache/ajax/download.php?token=D1UusQ5hIAUVdAJ6FeivXKYbfmF5EPEp&file_idx=1&no_idx_in_name=1&orig_names=))
 - [Task 2](/function_dependency.md)
 - [Task 3](/data_structure.md)
 - [Task 4](/function_documentation.md)
