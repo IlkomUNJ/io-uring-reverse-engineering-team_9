@@ -9,7 +9,7 @@ Score is mainly calculated from individual contributions made to the commit. The
 
 ## Link to each task
 - [Task 1](/[source_information.md](https://mconverter.eu/cf_nocache/ajax/download.php?token=D1UusQ5hIAUVdAJ6FeivXKYbfmF5EPEp&file_idx=1&no_idx_in_name=1&orig_names=))
-- [Task 2](/function_dependency.md)
+- [Task 2](/[function_dependency.md](https://www.zamzar.com/files/0196ca05-0ba9-719d-9746-72d29c2e69b4/152465098/?tcs=z98))
 - [Task 3](/data_structure.md)
 - [Task 4](/function_documentation.md)
 
